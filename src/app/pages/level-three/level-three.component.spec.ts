@@ -2,7 +2,7 @@ import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { LevelThreeComponent } from './level-three.component';
 
-describe('LevelThreeComponent', () => {
+xdescribe('LevelThreeComponent', () => {
   let component: LevelThreeComponent;
   let fixture: ComponentFixture<LevelThreeComponent>;
 

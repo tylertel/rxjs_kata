@@ -7,7 +7,7 @@ import { FeatureRequestService } from '../feature-request-service/feature-reques
 import { FeatureReport } from 'src/app/model/feature-report';
 
 
-describe('FeatureReportService', () => {
+xdescribe('FeatureReportService', () => {
   const feat1 = new FeatureRequest(100,"Do most things really well",1,1);
   const feat2 = new FeatureRequest(200,"Do all things well",3,4);
   const feat3 = new FeatureRequest(300,"Do all things amazing",7,11);
